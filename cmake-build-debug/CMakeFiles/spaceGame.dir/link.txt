@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/spaceGame.dir/main.cpp.o  -o spaceGame 

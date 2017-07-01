@@ -1,0 +1,3 @@
+/home/quantic/CLionProjects/spaceGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/quantic/CLionProjects/spaceGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quantic/CLionProjects/spaceGame/cmake-build-debug/CMakeFiles/spaceGame.dir
